@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Anshika Soni] (https://github.com/SoniAnshika)
 - Place: Jhansi, India
-- Bio: Pre-Placement year student at JUET. Research Intern @Orison Always eager to learn new things in life at every point.
+- Bio: Pre-Placement year student at JUET.
 - GitHub: [SoniAnshika] (https://github.com/SoniAnshika))
