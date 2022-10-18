@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Anshika Soni] (https://github.com/SoniAnshika)
+- Place: Jhansi, India
+- Bio: Pre-Placement year student at JUET. Research Intern @Orison Always eager to learn new things in life at every point.
+- GitHub: [SoniAnshika] (https://github.com/SoniAnshika))
